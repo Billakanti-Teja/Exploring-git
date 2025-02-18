@@ -2,7 +2,7 @@
 
 This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
-#### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
+#### If you don't have git on your machine, [install it](https://git-scm.com/downloads/win).
 
 ## Fork this repository
 
