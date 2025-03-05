@@ -1,1 +1,2 @@
-##Thank you for your interest in contributing to th repository 
+## Thank you for your interest in contributing to the repository.
+
